@@ -25,9 +25,11 @@
 
 Для экспорта рисунков в высоком разрешении был использован сторонний пакет [export_fig](https://github.com/altmany/export_fig).
 
-## [Результаты](https://github.com/CuriousGeorgiy/CompactDifferencingSchemeForTransportEquation/blob/master/report.pdf)
+## [Результаты](report.pdf)
 
-Основные скрипты для воспроизведения экспериментов и результатов находятся в [source/plots](https://github.com/CuriousGeorgiy/CompactDifferencingSchemeForTransportEquation/tree/master/source/plots).
+Основные скрипты для воспроизведения экспериментов и результатов находятся в [source/plots](source/plots).
+
+Работа [защищена](diploma.jpg) на [ежегодной межвузовской научно-технической конференции студентов, аспирантов и молодых специалистов имени Е.В.Арменского](https://miem.hse.ru/armntk/) в секции «Проекты школьников по физико-математическим и техническим направлениям».
 
 ## Список литературы
 
